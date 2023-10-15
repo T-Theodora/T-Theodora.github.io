@@ -11,7 +11,7 @@ body{
 
 .col-md-8{
 	text-align:center;
-	color:white;
+	color:white !important;
 
 }
 .tiri{
@@ -19,4 +19,12 @@ body{
 }
 .col-md-5{
 	color:white;
+}
+.gram{
+	font-size: 20px;
+}
+.video{
+	background-color: white;
+	font-size: 40px;
+}
 }
